@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Absensi Siswa Pintar",
+  "description": "A modern, responsive student attendance system connected to Google Sheets. It features secure login for teachers, student searching from database, and AI-powered attendance insights using Gemini.",
+  "requestFramePermissions": []
+}
